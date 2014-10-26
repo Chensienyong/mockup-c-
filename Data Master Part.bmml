@@ -1,0 +1,160 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1247" measuredH="597" mockupW="1090" mockupH="581">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="307" y="16" w="460" h="371" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Main%20Menu</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::MenuBar" x="307" y="41" w="460" h="21" measuredW="215" measuredH="21" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Master%2C%20Part%2C%20Laporan%20Part</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Menu" x="157" y="41" w="-1" h="-1" measuredW="150" measuredH="86" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Data%20Part%0AData%20Dealer%0AData%20Supplier%0AExit</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Menu" x="157" y="142" w="-1" h="-1" measuredW="150" measuredH="65" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Data%20Penjualan%0AData%20Pembelian%0AData%20Mutasi</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="307" y="62" w="460" h="-1" measuredW="136" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>16</size>
+        <text>Data%20Master%20Part</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TabBar" x="307" y="89" w="460" h="276" measuredW="154" measuredH="100" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Data%2C%20Tabel</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="328" y="126" w="-1" h="-1" measuredW="58" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Kode%20Part</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="437" y="124" w="132" h="-1" measuredW="107" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>0005ZKWWA00</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="328" y="157" w="-1" h="-1" measuredW="63" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nama%20Part</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::TextInput" x="437" y="155" w="260" h="-1" measuredW="97" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ENGINE%20EASY</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="328" y="193" w="-1" h="-1" measuredW="64" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Harga%20Jual</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TextInput" x="437" y="191" w="132" h="-1" measuredW="68" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <text>4.155.000</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="328" y="253" w="-1" h="-1" measuredW="74" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Harga%20Pokok</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextInput" x="437" y="251" w="132" h="-1" measuredW="70" measuredH="24" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <text>2.783.850</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="328" y="224" w="-1" h="-1" measuredW="94" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Harga%20Terendah</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::TextInput" x="437" y="222" w="132" h="-1" measuredW="68" measuredH="24" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <text>4.155.000</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Button" x="327" y="325" w="-1" h="-1" measuredW="99" measuredH="24" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tambah%20Baru</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="328" y="287" w="-1" h="-1" measuredW="28" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Stok</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::TextInput" x="437" y="285" w="46" h="-1" measuredW="24" measuredH="24" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>10</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="446" y="325" w="-1" h="-1" measuredW="52" measuredH="24" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ubah</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TabBar" x="787" y="89" w="460" h="276" measuredW="154" measuredH="100" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <tabVPosition>top</tabVPosition>
+        <text>Data%2C%20Tabel</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::DataGrid" x="794" y="121" w="445" h="234" measuredW="518" measuredH="228" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Kode%20Part%2C%20Nama%20Part%2C%20Harga%20Jual%2C%20Harga%20Terendah%2C%20Harga%20Pokok%2C%20Stok%0A0005ZKWWA00%2C%20ENGINE%20EASY%2C%204.155.000%2C%204.155.000%2C%202.783.850%2C%2010%0A0005ZKWWA00%2C%20ENGINE%20EASY%2C%204.155.000%2C%204.155.000%2C%202.783.850%2C%2010%0A0005ZKWWA00%2C%20ENGINE%20EASY%2C%204.155.000%2C%204.155.000%2C%202.783.850%2C%2010%0A0005ZKWWA00%2C%20ENGINE%20EASY%2C%204.155.000%2C%204.155.000%2C%202.783.850%2C%2010%0A0005ZKWWA00%2C%20ENGINE%20EASY%2C%204.155.000%2C%204.155.000%2C%202.783.850%2C%2010%0A0005ZKWWA00%2C%20ENGINE%20EASY%2C%204.155.000%2C%204.155.000%2C%202.783.850%2C%2010%0A0005ZKWWA00%2C%20ENGINE%20EASY%2C%204.155.000%2C%204.155.000%2C%202.783.850%2C%2010</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::TitleWindow" x="312" y="405" w="385" h="192" measuredW="450" measuredH="400" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <close>true</close>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>Find</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Label" x="328" y="444" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Find%20What%20%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::TextInput" x="437" y="442" w="132" h="-1" measuredW="79" measuredH="23" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Label" x="328" y="480" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Look%20In</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::ComboBox" x="437" y="479" w="-1" h="-1" measuredW="88" measuredH="61" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Kode%20Part%0ANama%20Part%0A...</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Button" x="615" y="443" w="55" h="24" measuredW="46" measuredH="24" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Find</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Button" x="615" y="478" w="-1" h="-1" measuredW="55" measuredH="24" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Close</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
